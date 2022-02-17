@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aravind_Panachickal
-- 👀 I’m interested in Python programming, open source projects, electronics.
+- 👀 I’m interested in Python programming, open source projects, electronics etc.
 - 🌱 I’m currently learning to improve my skill set.
 - 💞️ I’m looking to collaborate on open source projects that can impact even a small change in peoples lifes, and i am open to suggestions.
 
